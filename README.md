@@ -101,7 +101,7 @@ The code:
 
 produces:
 
-!(example)[examples/example.png]
+![example](examples/example.png?raw=true)
 
 #### With Biblatex
 
@@ -138,4 +138,4 @@ The code:
 
 produces:
 
-!(example)[examples/example_bib.png]
+![example](examples/example_bib.png?raw=true)
