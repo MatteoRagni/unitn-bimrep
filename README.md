@@ -14,14 +14,14 @@ There are some very simple step to complete a document:
 
  1. Use `unitn-bimrep` as your `\documentclass`
  1. In the preamble:
-   * Define the `\author` (your name)
-   * Define the `\advisor` (name of your advisor, or comma separated list of advisors)
-   * Define the `\title` (the title of your thesis)
-   * Define the `\cycle` (your school cycle)
+     * Define the `\author` (your name)
+     * Define the `\advisor` (name of your advisor, or comma separated list of advisors)
+     * Define the `\title` (the title of your thesis)
+     * Define the `\cycle` (your school cycle)
  3. In your document (exactly in this order):
-   1. Insert the `research` (or `research*`) environment
-   2. Insert the `school` (or `school*`) environment
-   3. Insert the `production` (or `production*`) environment
+     1. Insert the `research` (or `research*`) environment
+     2. Insert the `school` (or `school*`) environment
+     3. Insert the `production` (or `production*`) environment
 
 If one of the above element is missing, the class will raise an error.
 
