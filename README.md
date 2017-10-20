@@ -5,9 +5,6 @@ obtain the typical aspect required by the bimonthly report.
 
 ## Installation
 
-I'll try to upload the package on CTAN for automatic installation on different platforms and integration
-at syste level.
-
 If you want to use it for now, you have to put `unitn-bimrep.cls` and `unitn-bimrep.jpg` in the same directory
 of your main LaTeX file.
 
