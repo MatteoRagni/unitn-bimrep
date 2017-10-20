@@ -139,7 +139,7 @@ Supervisor: \textbf{\@advisor} \hfill Date: \textbf{\today}
       {Reasearch activities already defined}
       {The research environment has already been used. Please use it only once.} 
   }\fi
-  {\noindent{\large\textbf{Summary of Research Activity}:}}
+  {\noindent{\large\textbf{Summary of Research Activity}:}} \\
 }{}
 % School - Bullet list environment
 \newenvironment{school}{%
@@ -179,7 +179,7 @@ Supervisor: \textbf{\@advisor} \hfill Date: \textbf{\today}
         {Please remember that the correct order is 1) Research Activities, 2) School and Seminars, 3) Publications}
     }\fi
   }\fi
-  \@TNhlinenew \vspace{0.2cm} {\large \textbf{Attendance at Schools/Classes/Seminars}} (title, length (day/hours), credits):
+  \@TNhlinenew \vspace{0.2cm} {\large \textbf{Attendance at Schools/Classes/Seminars}} (title, length (day/hours), credits): \\
 }{}
 % Production - Bullet list environment
 \newenvironment{production}{%
@@ -220,7 +220,7 @@ Supervisor: \textbf{\@advisor} \hfill Date: \textbf{\today}
         {Please remember that the correct order is 1) Research Activities, 2) School and Seminars, 3) Publications}
     }\fi
   }\fi
-  \@TNhlinenew \vspace{0.2cm} {\large\textbf{Publications/Congress participation}:}
+  \@TNhlinenew \vspace{0.2cm} {\large\textbf{Publications/Congress participation}:} \\
 }
 {
   \vspace{0.2cm}
